@@ -6,3 +6,12 @@ body
 .header{
 font-weight: bold;
 }
+.coordonnées{
+  background-color: pink;
+  color: yellow;
+}
+
+.domaine{
+  background-color: red;
+  color: blue;
+}
