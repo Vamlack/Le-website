@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+      body{
+          background: gold;
+          color: mediumvioletred;
+          border: dodgerblue;
+          width: auto;
+          font-weight: bold;
+          font-family: 'Helvetica';
+      }
+      table{
+        border: medium solid blue;
+        width: 75%;
+      }
+      td,th{
+        border: thin solid #6495ed;
+        width:75%;
+      }
+      .menu{background-color: goldenrod;}
+
+    </style>
+
+
+</head>
+<body>
+  <table>
+    <caption>La carte</caption>
+    <colgroup>
+      <col span="1" class="menu">
+    </colgroup>
+    <tr>
+      <th scope="col"></th>
+      <td>Recette</td>
+      <td>Prix</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Entrée</td>
+      <td>Soupe de légumes</td>
+      <td>8 euro</td>
+    </tr>
+    <tr>
+      <td>Salade aux fruits de mer</td>
+      <td>9 euro</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Plats</td>
+      <td>Couscous au poisson</td>
+      <td>14 euro</td>
+    </tr>
+    <tr>
+      <td>Côte de veau aux petits légumes</td>
+      <td>12 euro</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Desserts</td>
+      <td>Tiramisu</td>
+      <td>6 euros</td>
+    </tr>
+    <tr>
+      <td>Mousse au chocolat</td>
+      <td>5 euro</td>
+    </tr>
+  </table>
+</body>
+</html>
