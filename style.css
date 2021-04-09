@@ -5,6 +5,7 @@ body
 }
 .header{
 font-weight: bold;
+  position: absolute;
 }
 .coordonnées{
   background-color: lavender;
