@@ -7,8 +7,8 @@ body
 font-weight: bold;
 }
 .coordonnées{
-  background-color: dimgrey;
-  color: slategray;
+  background-color: slategray;
+  color: dimgrey;
 }
 
 .domaine{
