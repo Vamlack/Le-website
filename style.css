@@ -14,7 +14,7 @@ text-align: center;
   color: slategray;
   width: 40%;
   text-align: center;
-  margin-left: auto;
+  margin-left: revert;
 }
 
 .domaine{
