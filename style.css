@@ -14,7 +14,8 @@ text-align: center;
   color: slategray;
   width: 40%;
   text-align: center;
-  margin-left: revert;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .domaine{
@@ -22,6 +23,8 @@ text-align: center;
   color: slategray;
   width: 40%;
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 header.image{
   background: no-repeat left/cover url(https://media.glassdoor.com/sqll/951996/platypus-squarelogo-1534925482691.png);
