@@ -1,13 +1,17 @@
 body
 {
-  background-color: #a78a66;
+  background-color: #D0D3D4;
   font-weight: bold;
 }
 header.header{
 font-weight: bold;
-
-
 }
+
+form{
+  width: 100%;
+  border: 1px solid black;
+}
+
 .coordonnées{
   background-color: lavender;
   color: slategray;
@@ -22,11 +26,15 @@ font-weight: bold;
   position: center;
 }
 header.image{
-  background: no-repeat left/cover url(https://media.glassdoor.com/sqll/951996/platypus-squarelogo-1534925482691.png);
-  border-radius: 50%;
-  margin: auto;
-  height: 100px;
-  width: 100px;
-  align-items: center;
 
+
+
+
+}
+.headerimg{
+    margin: auto;
+    filter: drop-shadow(10px 5px 4px black);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
