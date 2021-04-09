@@ -5,6 +5,7 @@ body
 }
 header.header{
 font-weight: bold;
+text-align: center;
 
 
 }
@@ -12,14 +13,14 @@ font-weight: bold;
   background-color: lavender;
   color: slategray;
   width: 40%;
-  position: fixed;
+  text-align: center;
 }
 
 .domaine{
   background-color: lavender;
   color: slategray;
   width: 40%;
-  position: center;
+  text-align: center;
 }
 header.image{
   background: no-repeat left/cover url(https://media.glassdoor.com/sqll/951996/platypus-squarelogo-1534925482691.png);
