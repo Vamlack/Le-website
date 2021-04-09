@@ -5,12 +5,7 @@ body
 }
 header.header{
 font-weight: bold;
-<<<<<<< HEAD
 }
-=======
-text-align: center;
->>>>>>> 1fbc7665ae799e5714133040c40e60d6467ec873
-
 form{
   width: 100%;
   border: 1px solid black;
