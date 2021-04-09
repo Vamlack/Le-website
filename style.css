@@ -1,14 +1,14 @@
 body
 {
-  background-color: #282828;
+  background-color: #a78a66;
   font-weight: bold;
 }
 .header{
 font-weight: bold;
 }
 .coordonnées{
-  background-color: burlywood;
-  color: dimgrey;
+  background-color: lavender;
+  color: slategray;
 }
 
 .domaine{
