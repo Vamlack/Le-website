@@ -3,7 +3,7 @@ body
   background-color: #a78a66;
   font-weight: bold;
 }
-.header{
+header.header{
 font-weight: bold;
 
 }
@@ -20,6 +20,6 @@ font-weight: bold;
   width: 40%;
   position: center;
 }
-.image{
+header.image{
   background: no-repeat url(https://cdn.pixabay.com/photo/2021/03/01/10/09/bird-6059308_960_720.jpg);
 }
