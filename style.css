@@ -7,11 +7,11 @@ body
 font-weight: bold;
 }
 .coordonnées{
-  background-color: pink;
-  color: cornflowerblue;
+  background-color: dimgrey;
+  color: slategray;
 }
 
 .domaine{
-  background-color: red;
-  color: blue;
+  background-color: dimgray;
+  color: slategray;
 }
