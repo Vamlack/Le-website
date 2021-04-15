@@ -1,3 +1,4 @@
+*{box-sizing: border-box;}
 body
 {
   background-color: #D0D3D4;
@@ -9,8 +10,15 @@ font-weight: bold;
 form{
   width: 100%;
   border: 1px solid black;
+  text-shadow: black 5px 0 15px;
+  background-color: white;
+  margin: auto;
+  padding: 10px 50px 20px;
+  text-align: center;
 }
-
+.buttons{
+  padding: 10px;
+}
 .coordonnées{
   background-color: lavender;
   color: slategray;
@@ -35,6 +43,7 @@ header.image{
 
 }
 .headerimg{
+    display: block;
     margin: auto;
     filter: drop-shadow(10px 5px 4px black);
     border-radius: 50%;
