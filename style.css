@@ -1,43 +1,8 @@
 body
 {
-  background-color: #D0D3D4;
+  background-color: cornflowerblue;
   font-weight: bold;
 }
-header.header{
+.header{
 font-weight: bold;
-}
-form{
-  width: 100%;
-  border: 1px solid black;
-}
-
-.coordonnées{
-  background-color: lavender;
-  color: slategray;
-  width: 40%;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.domaine{
-  background-color: lavender;
-  color: slategray;
-  width: 40%;
-  text-align: center;
-  margin-right: auto;
-  margin-left: auto;
-}
-header.image{
-
-
-
-
-}
-.headerimg{
-    margin: auto;
-    filter: drop-shadow(10px 5px 4px black);
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
 }
