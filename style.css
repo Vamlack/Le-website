@@ -3,12 +3,6 @@ body{
   background-color: cornflowerblue;
   font-weight: bold;
 }
-<<<<<<< HEAD
-.header{
-
-font-weight: bold;
-}
-=======
 
 header{
       text-align: center;
@@ -55,6 +49,7 @@ form{
 }
 
 .spmenu{
+
     background-color: mediumturquoise;
     border: thick double darkgrey;
 
@@ -73,4 +68,3 @@ h1{
 h2::first-letter{
   color: dimgray;
 }
->>>>>>> eae04eb2716dc51530cb5a241e81a4e2f6a74665
