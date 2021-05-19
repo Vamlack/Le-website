@@ -54,4 +54,21 @@ form{
     height: 100px;
     width: 100px;
 }
+.spmenu{
+    background-color: cornflowerblue;
+    border: thick double darkgrey;
+
+}
+h1{
+
+    font-size: 60px;
+    font-family: 'Helvetica';
+    font-weight: bold;
+    color: darkgrey;
+    text-shadow: black 8px 0 24px;
+    text-align: center;
+}
+h2::first-letter{
+  color: dimgray;
+}
 >>>>>>> eae04eb2716dc51530cb5a241e81a4e2f6a74665
