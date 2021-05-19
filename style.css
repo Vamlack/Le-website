@@ -1,17 +1,16 @@
 *{box-sizing: border-box;}
-body
-{
+body{
   background-color: cornflowerblue;
   font-weight: bold;
 }
 <<<<<<< HEAD
 .header{
+
 font-weight: bold;
 }
 =======
 
-header
-{
+header{
       text-align: center;
       font-weight: bold;
 }
@@ -54,11 +53,13 @@ form{
     height: 100px;
     width: 100px;
 }
+
 .spmenu{
-    background-color: cornflowerblue;
+    background-color: blue;
     border: thick double darkgrey;
 
 }
+
 h1{
 
     font-size: 60px;
@@ -68,6 +69,7 @@ h1{
     text-shadow: black 8px 0 24px;
     text-align: center;
 }
+
 h2::first-letter{
   color: dimgray;
 }
