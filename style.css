@@ -55,7 +55,7 @@ form{
 }
 
 .spmenu{
-    background-color: darkblue;
+    background-color: dimgray;
     border: thick double darkgrey;
 
 }
@@ -65,7 +65,7 @@ h1{
     font-size: 60px;
     font-family: 'Helvetica';
     font-weight: bold;
-    color: darkgrey;
+    color: blue;
     text-shadow: black 2px 0 12px;
     text-align: center;
 }
